@@ -6,3 +6,10 @@ __pycache__/
 *.bin
 s3.env
 delete.json
+
+# DuckDB lab
+*.duckdb
+*.duckdb.wal
+init.sql
+orders_large.csv
+*.parquet
