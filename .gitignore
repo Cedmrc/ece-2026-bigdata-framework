@@ -13,3 +13,9 @@ delete.json
 init.sql
 orders_large.csv
 *.parquet
+
+# dbt
+target/
+dbt_packages/
+logs/
+*.duckdb
